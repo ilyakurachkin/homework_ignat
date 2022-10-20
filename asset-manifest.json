@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/homework_ignat/static/css/main.bdcfdded.css",
+    "main.js": "/homework_ignat/static/js/main.2c077511.js",
+    "static/js/787.66cb4309.chunk.js": "/homework_ignat/static/js/787.66cb4309.chunk.js",
+    "static/media/Bradley.jpg": "/homework_ignat/static/media/Bradley.de940feb7a109854efcd.jpg",
+    "static/media/gun.jpg": "/homework_ignat/static/media/gun.698cf1f7989f21ddb773.jpg",
+    "index.html": "/homework_ignat/index.html",
+    "main.bdcfdded.css.map": "/homework_ignat/static/css/main.bdcfdded.css.map",
+    "main.2c077511.js.map": "/homework_ignat/static/js/main.2c077511.js.map",
+    "787.66cb4309.chunk.js.map": "/homework_ignat/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdcfdded.css",
+    "static/js/main.2c077511.js"
+  ]
+}

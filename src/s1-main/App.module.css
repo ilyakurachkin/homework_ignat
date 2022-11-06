@@ -1,11 +1,21 @@
 .App {
     --header_height: 60px;
+
 }
 
 .hw {
+    background-image: url("https://phonoteka.org/uploads/posts/2022-09/1663629365_1-phonoteka-org-p-temnoe-derevo-fon-oboi-1.jpg");
+    background-size: 100%;
 
 }
 
-.hwTitle {
 
+
+.hwTitle {
+    font-family: 'JetBrains Mono', 'sans-serif';
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    background: #303030;
+    color: #DDEEFF;
 }

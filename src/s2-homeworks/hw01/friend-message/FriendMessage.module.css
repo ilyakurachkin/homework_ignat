@@ -19,6 +19,7 @@ pre {
     height: 100px;
     margin-right: 15px;
     border-radius: 50px;
+    border: 2px solid rgba(221, 238, 255, 0.49);
 }
 
 .friendText {
@@ -30,7 +31,9 @@ pre {
     height: auto;
     padding: 10px;
     border-radius: 10px 10px 10px 0;
-    background: #cc9c00;
+    border: 1px solid rgba(221, 238, 255, 0.49);
+    background-image: url("https://abrakadabra.fun/uploads/posts/2021-12/1639964606_3-abrakadabra-fun-p-standartnie-foni-telegramma-3.jpg");
+    background-size: 30%;
 }
 
 .friendText:after {
@@ -41,32 +44,32 @@ pre {
     display: block;
     width: 30px;
     height: 30px;
-    background: radial-gradient(60px at top left, transparent 49%, #cc9c00 51%) no-repeat right bottom;
+    background: radial-gradient(60px at top left, transparent 49%,  rgba(28, 28, 28, 0.89) 51% ) no-repeat right bottom;
 }
 
 .friendName {
-    font-family: "monospace";
+    font-family: sans-serif;
     font-weight: 600;
     font-size: 18px;
     line-height: 20px;
-    color: #000000;
+    color: #decccc;
 }
 
 .friendMessageText {
-    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
     font-weight: 400;
     font-size: 16px;
     line-height: 20px;
-    color: #000000;
+    color: #decccc;
     margin-top: 5px;
 }
 
 .friendTime {
-    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
     font-weight: 600;
     font-size: 10px;
     line-height: 12px;
-    color: #000000;
+    color: #decccc;
     display: flex;
     margin-left: 35px;
     margin-bottom: 50px;

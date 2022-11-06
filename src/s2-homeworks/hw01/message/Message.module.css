@@ -30,22 +30,35 @@ pre {
     max-width: 60%;
     height: auto;
     padding: 10px;
-    border-radius: 10px 10px 0 10px;
-    border: 1px solid rgba(221, 238, 255, 0.49);
+    border-radius: 15px;
+    border: 2px solid rgba(221, 238, 255, 0.49);
     background-image: url("https://abrakadabra.fun/uploads/posts/2021-12/1639964606_3-abrakadabra-fun-p-standartnie-foni-telegramma-3.jpg");
     background-size: 30%;
 }
 
 .text:after {
-    content: '';
+    content: ' ';
     position: absolute;
-    bottom: 0;
-    right: -30px;
-    display: block;
-    width: 30px;
-    height: 30px;
-    background: radial-gradient(60px at top right, transparent 49%, rgba(28, 28, 28, 0.89) 51%) no-repeat right bottom;
+    width: 0;
+    height: 0;
+    right: -15px;
+    top: 102px;
+    border: 10px solid;
+    border-color: #202020  transparent  transparent #202020;
+    /*background: radial-gradient(60px at top right, transparent 49%, rgba(28, 28, 28, 0.89) 51%) no-repeat right bottom;*/
 }
+.text:before {
+    content: ' ';
+    position: absolute;
+    width: 0;
+    height: 0;
+    right: -20px;
+    top: 100px;
+    border: 10px solid;
+    border-color: #7d838b  transparent  transparent #7d838b;
+}
+
+
 
 .name {
     font-family: sans-serif;

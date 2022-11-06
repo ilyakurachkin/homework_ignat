@@ -25,7 +25,8 @@
 
 .button {
     border: 1px;
-    color: #FFFFFF;
+    color:  black;
+    font-size: 15px;
     min-width: 100px;
     padding: 12px;
     background: rgba(221, 238, 255, 0.49);
